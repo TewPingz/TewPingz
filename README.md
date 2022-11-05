@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@tewpingz/4f7a33f6-4198-4766-8091-048a919f6350.png" />
+    <img src="https://wakatime.com/share/@tewpingz/2e6c01d8-0968-450a-b459-a4d000813a1a.png" />
   </a>
 </p>
