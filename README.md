@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/9efc1ca2-52d6-4d7f-96e7-ebee7d58589e.svg"/>
+  <a href="https://wakatime.com/@9efc1ca2-52d6-4d7f-96e7-ebee7d58589e">
+    <img src="https://wakatime.com/badge/user/9efc1ca2-52d6-4d7f-96e7-ebee7d58589e.svg" alt="Total time coded since Nov 5 2022" />
+  </a>
 </p>
  
 <p align="center">
