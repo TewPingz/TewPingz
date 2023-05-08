@@ -21,9 +21,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TewPingz&theme=darkhub"/>
 </p>
-
-<p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@tewpingz/2e6c01d8-0968-450a-b459-a4d000813a1a.png" />
-  </a>
-</p>
